@@ -1,0 +1,22 @@
+{
+  "name": "graphdb-gremlin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/gremlin": "^3.6.4",
+    "@types/node": "^20.6.5",
+    "cassandra-driver": "^4.7.2",
+    "elasticsearch": "^16.7.3",
+    "gremlin": "^3.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
